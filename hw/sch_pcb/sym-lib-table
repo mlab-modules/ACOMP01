@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "LMH7220MK_NOPB")(type "Legacy")(uri "C:/Users/somme/Downloads/LIB_LMH7220MK_NOPB/LMH7220MK_NOPB/KiCad/LMH7220MK_NOPB.lib")(options "")(descr ""))
+  (lib (name "TLV3604DCKR")(type "Legacy")(uri "C:/Users/somme/Downloads/LIB_TLV3604DCKR/TLV3604DCKR/KiCad/TLV3604DCKR.lib")(options "")(descr ""))
+)
