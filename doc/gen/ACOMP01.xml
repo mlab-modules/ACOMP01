@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/ACOMP01.kicad_sch</source>
+    <date>Thu Feb  9 21:10:05 2023</date>
+    <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>ACOMP01</title>
+        <company>Mlab www.mlab.cz</company>
+        <rev>A</rev>
+        <date>2023-02-09</date>
+        <source>ACOMP01.kicad_sch</source>
+        <comment number="1" value="Analog comparator"/>
+        <comment number="2" value="Marek Sommer &lt;sommer@ujf.cas.cz&gt;"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bbe</field>
+      </fields>
+      <libsource lib="ISM02A-rescue" part="C_Small-Device-ISM02A-rescue" description=""/>
+      <property name="UST_id" value=""/>
+      <property name="UST_ID" value="5c70984812875079b91f8bbe"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d2a73e9-4c61-4f64-a858-d2b8a9a4b473</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="UST_ID">5c70984812875079b91f8bf2</field>
+        <field name="UST_id">C0805_100n</field>
+      </fields>
+      <libsource lib="ISM02A-rescue" part="C_Small-Device-ISM02A-rescue" description=""/>
+      <property name="UST_id" value="C0805_100n"/>
+      <property name="UST_ID" value="5c70984812875079b91f8bf2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7fab2e4e-c967-46aa-8b62-a4eb722fba85</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f66f54fb-1d0d-47f4-b95c-230a639b65a5</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8703906d-fde8-4797-a5ae-0ca88efcdb5a</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>BZV55C-5,6V</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="UST_ID">5c70984512875079b91f88b2</field>
+      </fields>
+      <libsource lib="ISM02A-rescue" part="D_ZENER-MLAB_D" description=""/>
+      <property name="UST_ID" value="5c70984512875079b91f88b2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fd1e3c55-10e7-496c-9431-54c316ba931e</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>TLV3604DCKR</value>
+      <footprint>Mlab_IO:SC-70-6</footprint>
+      <datasheet>https://www.ti.com/lit/gpn/tlv3604</datasheet>
+      <fields>
+        <field name="Description">800-ps high-speed rail-rail input comparator with LVDS outputs</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TLV3604DCKR</field>
+        <field name="Mouser Part Number">595-TLV3604DCKR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV3604DCKR?qs=eP2BKZSCXI640M7VQt%252Bohw%3D%3D</field>
+      </fields>
+      <libsource lib="TLV3604DCKR" part="TLV3604DCKR" description="800-ps high-speed rail-rail input comparator with LVDS outputs"/>
+      <property name="Description" value="800-ps high-speed rail-rail input comparator with LVDS outputs"/>
+      <property name="Height" value="1.1"/>
+      <property name="Mouser Part Number" value="595-TLV3604DCKR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV3604DCKR?qs=eP2BKZSCXI640M7VQt%252Bohw%3D%3D"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="TLV3604DCKR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da8e3765-bd12-4dda-a6a5-bf50cf7fa523</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>LMH7220MK_NOPB</value>
+      <footprint>Mlab_IO:SOT-23-6</footprint>
+      <datasheet>http://www.ti.com/lit/gpn/lmh7220</datasheet>
+      <fields>
+        <field name="Description">High Speed Comparator with LVDS Output</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LMH7220MK/NOPB</field>
+        <field name="Mouser Part Number">926-LMH7220MK/NOPB</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMH7220MK-NOPB?qs=7lkVKPoqpbY%252B%252BlU26oUBug%3D%3D</field>
+      </fields>
+      <libsource lib="LMH7220MK_NOPB" part="LMH7220MK_NOPB" description="High Speed Comparator with LVDS Output"/>
+      <property name="Description" value="High Speed Comparator with LVDS Output"/>
+      <property name="Height" value="1.1"/>
+      <property name="Mouser Part Number" value="926-LMH7220MK/NOPB"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMH7220MK-NOPB?qs=7lkVKPoqpbY%252B%252BlU26oUBug%3D%3D"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="LMH7220MK/NOPB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c6cb362-44a7-4dc7-babe-72ac1e0fd1e9</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Umin ... Umax</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
+      <libsource lib="header" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d65bc</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_Coaxial</value>
+      <footprint>Mlab_CON:SMA6251A13G50</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b19fad9a-d3d5-4b48-b6c5-b8fa621dea36</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_Coaxial</value>
+      <footprint>Mlab_CON:SMA6251A13G50</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a74bbba2-00cd-4aaa-b52b-3b3176f77c52</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_Coaxial</value>
+      <footprint>Mlab_CON:SMA6251A13G50</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dab10972-1430-44f7-b687-708848e7be1c</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_Coaxial</value>
+      <footprint>Mlab_CON:SMA6251A13G50</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa247648-2d2f-4ce6-b339-957e0e8c3c1d</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>HEADER_2x04_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x04</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x04_PARALLEL" description="2x04 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>433893a9-214d-4526-9518-f341d7a8494f</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>HEADER_2x04_PARALLEL</value>
+      <footprint>Mlab_Pin_Headers:Straight_2x04</footprint>
+      <libsource lib="MLAB_HEADER" part="HEADER_2x04_PARALLEL" description="2x04 2.54 mm pitch header, 2 pins next to each other are connected"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5874da5-7d88-40ee-9f03-7b69b82e4195</tstamps>
+    </comp>
+    <comp ref="M1">
+      <value>HOLE M3</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="mlab-default-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7549</tstamps>
+    </comp>
+    <comp ref="M2">
+      <value>HOLE M3</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="mlab-default-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7628</tstamps>
+    </comp>
+    <comp ref="M3">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="mlab-default-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7646</tstamps>
+    </comp>
+    <comp ref="M4">
+      <value>HOLE</value>
+      <footprint>Mlab_Mechanical:MountingHole_3mm</footprint>
+      <libsource lib="mlab-default-rescue" part="HOLE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000549d7665</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>DNF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98d31aff-ebe6-449b-a604-6b22c33593cc</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>DNF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f49491c-beeb-45b9-8416-d2ba6577e6f2</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ISM02A-rescue" part="C_Small-Device-ISM02A-rescue">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small-Device-ISM02A-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ISM02A-rescue" part="D_ZENER-MLAB_D">
+      <footprints>
+        <fp>D?</fp>
+        <fp>SO*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_ZENER-MLAB_D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LMH7220MK_NOPB" part="LMH7220MK_NOPB">
+      <description>High Speed Comparator with LVDS Output</description>
+      <docs>http://www.ti.com/lit/gpn/lmh7220</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LMH7220MK_NOPB</field>
+        <field name="Footprint">SOT95P280X110-6N</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/lmh7220</field>
+        <field name="Description">High Speed Comparator with LVDS Output</field>
+        <field name="Height">1.1</field>
+        <field name="Mouser Part Number">926-LMH7220MK/NOPB</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LMH7220MK-NOPB?qs=7lkVKPoqpbY%252B%252BlU26oUBug%3D%3D</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LMH7220MK/NOPB</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN-" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="OUT_~{Q}" type="passive"/>
+        <pin num="4" name="OUT_Q" type="passive"/>
+        <pin num="5" name="VCC" type="passive"/>
+        <pin num="6" name="IN+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_2x04_PARALLEL">
+      <description>2x04 2.54 mm pitch header, 2 pins next to each other are connected</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x04_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="8" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="TLV3604DCKR" part="TLV3604DCKR">
+      <description>800-ps high-speed rail-rail input comparator with LVDS outputs</description>
+      <docs>https://www.ti.com/lit/gpn/tlv3604</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">TLV3604DCKR</field>
+        <field name="Footprint">SOT65P210X110-6N</field>
+        <field name="Datasheet">https://www.ti.com/lit/gpn/tlv3604</field>
+        <field name="Description">800-ps high-speed rail-rail input comparator with LVDS outputs</field>
+        <field name="Height">1.1</field>
+        <field name="Mouser Part Number">595-TLV3604DCKR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TLV3604DCKR?qs=eP2BKZSCXI640M7VQt%252Bohw%3D%3D</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TLV3604DCKR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT+" type="passive"/>
+        <pin num="2" name="VEE" type="passive"/>
+        <pin num="3" name="IN+" type="passive"/>
+        <pin num="4" name="IN-" type="passive"/>
+        <pin num="5" name="VCCI/VCCO" type="passive"/>
+        <pin num="6" name="OUT-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="header" part="HEADER_2x03_PARALLEL">
+      <description>2x03 2.54 mm pitch header, 2 pins next to each other are connected</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_2x03_PARALLEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="mlab-default-rescue" part="HOLE">
+      <fields>
+        <field name="Reference">M</field>
+        <field name="Value">HOLE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="LMH7220MK_NOPB">
+      <uri>C:/Users/somme/Downloads/LIB_LMH7220MK_NOPB/LMH7220MK_NOPB/KiCad/LMH7220MK_NOPB.lib</uri>
+    </library>
+    <library logical="TLV3604DCKR">
+      <uri>C:/Users/somme/Downloads/LIB_TLV3604DCKR/TLV3604DCKR/KiCad/TLV3604DCKR.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="IC1" pin="5" pinfunction="VCCI/VCCO" pintype="passive"/>
+      <node ref="IC2" pin="5" pinfunction="VCC" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="input"/>
+      <node ref="J1" pin="4" pintype="input"/>
+    </net>
+    <net code="2" name="/IN+_LMH">
+      <node ref="IC2" pin="6" pinfunction="IN+" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="In" pintype="passive"/>
+    </net>
+    <net code="3" name="/IN+_TLV">
+      <node ref="IC1" pin="3" pinfunction="IN+" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="In" pintype="passive"/>
+    </net>
+    <net code="4" name="/IN-_LMH">
+      <node ref="IC2" pin="1" pinfunction="IN-" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="In" pintype="passive"/>
+    </net>
+    <net code="5" name="/IN-_TLV">
+      <node ref="IC1" pin="4" pinfunction="IN-" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="In" pintype="passive"/>
+    </net>
+    <net code="6" name="/OUT+_LMH">
+      <node ref="IC2" pin="4" pinfunction="OUT_Q" pintype="passive"/>
+      <node ref="J7" pin="3" pintype="input"/>
+      <node ref="J7" pin="4" pintype="input"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/OUT+_TLV">
+      <node ref="IC1" pin="1" pinfunction="OUT+" pintype="passive"/>
+      <node ref="J6" pin="3" pintype="input"/>
+      <node ref="J6" pin="4" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="/OUT-_LMH">
+      <node ref="IC2" pin="3" pinfunction="OUT_~{Q}" pintype="passive"/>
+      <node ref="J7" pin="5" pintype="input"/>
+      <node ref="J7" pin="6" pintype="input"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/OUT-_TLV">
+      <node ref="IC1" pin="6" pinfunction="OUT-" pintype="passive"/>
+      <node ref="J6" pin="5" pintype="input"/>
+      <node ref="J6" pin="6" pintype="input"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="VEE" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="input"/>
+      <node ref="J1" pin="2" pintype="input"/>
+      <node ref="J1" pin="5" pintype="input"/>
+      <node ref="J1" pin="6" pintype="input"/>
+      <node ref="J2" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="J6" pin="1" pintype="input"/>
+      <node ref="J6" pin="2" pintype="input"/>
+      <node ref="J6" pin="7" pintype="input"/>
+      <node ref="J6" pin="8" pintype="input"/>
+      <node ref="J7" pin="1" pintype="input"/>
+      <node ref="J7" pin="2" pintype="input"/>
+      <node ref="J7" pin="7" pintype="input"/>
+      <node ref="J7" pin="8" pintype="input"/>
+      <node ref="M1" pin="1" pintype="input"/>
+      <node ref="M2" pin="1" pintype="input"/>
+      <node ref="M3" pin="1" pintype="input"/>
+      <node ref="M4" pin="1" pintype="input"/>
+    </net>
+  </nets>
+</export>
