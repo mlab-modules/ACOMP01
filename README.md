@@ -1,6 +1,7 @@
-# MODUL01 - Template to create a new MLAB module
+# ACOMP01A - Fast analog comparator
 
-Analog comparator 
+
+Comparator with short response time in the order of nanoseconds. Outputs differential LVDS signal. Each analog input is on an MCX connector.
 
 
     
