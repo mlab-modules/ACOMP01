@@ -272,6 +272,8 @@ jobs:
         
         tree
         
+        git add -F .
+        
     - uses: stefanzweifel/git-auto-commit-action@v4.16.0
       with:
         commit_message: Update actions products
