@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ACOMP01.kicad_sch</source>
-    <date>Fri Feb 10 00:53:33 2023</date>
+    <date>Sat Feb 11 20:49:37 2023</date>
     <tool>Eeschema 6.0.10+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -11,7 +11,7 @@
         <rev>A</rev>
         <date>2023-02-09</date>
         <source>ACOMP01.kicad_sch</source>
-        <comment number="1" value="Analog comparator"/>
+        <comment number="1" value="Fast analog comparator"/>
         <comment number="2" value="Marek Sommer &lt;sommer@ujf.cas.cz&gt;"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
