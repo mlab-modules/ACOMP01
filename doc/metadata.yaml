@@ -1,0 +1,11 @@
+description: Fast analog comparator module
+github_branch: ACOMP01A
+github_repo: ACOMP01
+github_url: https://github.com/mlab-modules/ACOMP01
+homepage: true
+mark: 50
+tags:
+- analog-signal
+- analog-signals
+- comparator
+title: ACOMP01
