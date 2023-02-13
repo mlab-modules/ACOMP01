@@ -688,7 +688,7 @@
 </g>
 </g> 
 </g><g id="substrate-silk" style="fill:#0b1013; stroke:#0b1013;" mask="url(#pads-mask-silkscreen)"><g style="fill-opacity: 0.0;stroke-width: 500.000000;stroke-opacity: 1;stroke-linecap: round;stroke-linejoin: round">
-<text x="666750.000000" y="1008340.000000" textLength="4761.910000" font-size="6666.660000" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">1</text>
+<text x="666750.000000" y="1008340.000000" textLength="6711.900000" font-size="6666.660000" lengthAdjust="spacingAndGlyphs" text-anchor="middle" opacity="0">1</text>
 <g class="stroked-text"><desc>1</desc>
 <path d="M668178 1008101 L665321 1008101 "/>
 <path d="M666750 1008101 L666750 1003101 L666273 1003816 L665797 1004292 L665321 1004530 "/>
