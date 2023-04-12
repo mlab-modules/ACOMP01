@@ -4,12 +4,12 @@ github_repo: ACOMP01
 github_url: https://github.com/mlab-modules/ACOMP01
 homepage: true
 images:
-- doc/gen/img/ACOMP01-bottom.png
 - doc/gen/img/ACOMP01-top.png
+- doc/gen/img/ACOMP01-bottom.png
 - doc/gen/ACOMP01-schematic.svg
 - doc/gen/img/ACOMP01-top.svg
-- hw/cam_profi/docs/ACOMP01A-assembly_page_01.svg
 - hw/cam_profi/docs/ACOMP01A-assembly_page_02.svg
+- hw/cam_profi/docs/ACOMP01A-assembly_page_01.svg
 mark: 50
 mod_ibom: hw/cam_profi/ibom/ACOMP01-ibom.html
 mod_scheme: doc/gen/ACOMP01-schematic.pdf
