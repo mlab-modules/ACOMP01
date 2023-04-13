@@ -1,6 +1,1 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-"C3","100nF","C_0805_2012Metric",-32.5120,12.9540,0.0000,top
-"C4","100nF","C_0805_2012Metric",-32.5120,15.9640,0.0000,top
-"IC1","TLV3604DCKR","SC-70-6",-23.6220,8.6360,0.0000,top
-"R1","DNF","R_0805_2012Metric",-28.0820,15.9940,0.0000,top
-"R2","DNF","R_0805_2012Metric",-20.0720,24.7740,0.0000,top
