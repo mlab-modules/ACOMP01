@@ -1,8 +1,12 @@
 name: Update actions and assets repository
 on:
   schedule:
-  - cron: "0 0 * * *"
+  - cron: "0 */24 * * *"
   
+  push:
+    paths:
+      - '.gitmodules'
+
   workflow_dispatch:
   
 jobs:
