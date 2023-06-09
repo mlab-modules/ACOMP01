@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ACOMP01.kicad_sch</source>
-    <date>Mon May 29 00:49:02 2023</date>
+    <date>Fri Jun  9 21:36:48 2023</date>
     <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -133,7 +133,7 @@
       <tstamps>3c6cb362-44a7-4dc7-babe-72ac1e0fd1e9</tstamps>
     </comp>
     <comp ref="J1">
-      <value>Umin ... Umax</value>
+      <value>2,4 - 5,5V</value>
       <footprint>Mlab_Pin_Headers:Straight_2x03</footprint>
       <libsource lib="header" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
