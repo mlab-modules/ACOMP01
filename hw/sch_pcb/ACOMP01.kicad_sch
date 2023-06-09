@@ -1585,7 +1585,7 @@
     (property "Reference" "J1" (id 0) (at 267.97 31.75 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "Umin ... Umax" (id 1) (at 267.97 21.59 0)
+    (property "Value" "2,4 - 5,5V" (id 1) (at 267.97 21.59 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Footprint" "Mlab_Pin_Headers:Straight_2x03" (id 2) (at 267.97 24.13 0)
@@ -2424,7 +2424,7 @@
       (reference "IC2") (unit 1) (value "LMH7220MK_NOPB") (footprint "Mlab_IO:SOT-23-6")
     )
     (path "/00000000-0000-0000-0000-0000549d65bc"
-      (reference "J1") (unit 1) (value "Umin ... Umax") (footprint "Mlab_Pin_Headers:Straight_2x03")
+      (reference "J1") (unit 1) (value "2,4 - 5,5V") (footprint "Mlab_Pin_Headers:Straight_2x03")
     )
     (path "/b19fad9a-d3d5-4b48-b6c5-b8fa621dea36"
       (reference "J2") (unit 1) (value "Conn_Coaxial") (footprint "Mlab_CON:SMA6251A13G50")
