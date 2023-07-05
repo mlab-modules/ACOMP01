@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ACOMP01.kicad_sch</source>
-    <date>Wed Jul  5 11:49:57 2023</date>
-    <tool>Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11</tool>
+    <date>Wed Jul  5 12:39:33 2023</date>
+    <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>ACOMP01</title>
@@ -59,8 +59,6 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
-      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f66f54fb-1d0d-47f4-b95c-230a639b65a5</tstamps>
     </comp>
@@ -70,8 +68,6 @@
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
-      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>8703906d-fde8-4797-a5ae-0ca88efcdb5a</tstamps>
     </comp>
@@ -109,7 +105,6 @@
       <property name="Manufacturer_Part_Number" value="TLV3604DCKR"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
-      <property name="ki_description" value="800-ps high-speed rail-rail input comparator with LVDS outputs"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>da8e3765-bd12-4dda-a6a5-bf50cf7fa523</tstamps>
     </comp>
@@ -134,7 +129,6 @@
       <property name="Manufacturer_Part_Number" value="LMH7220MK/NOPB"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
-      <property name="ki_description" value="High Speed Comparator with LVDS Output"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3c6cb362-44a7-4dc7-babe-72ac1e0fd1e9</tstamps>
     </comp>
@@ -144,8 +138,6 @@
       <libsource lib="header" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
-      <property name="ki_description" value="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x03, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>00000000-0000-0000-0000-0000549d65bc</tstamps>
     </comp>
@@ -156,8 +148,6 @@
       <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
-      <property name="ki_description" value="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
-      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b19fad9a-d3d5-4b48-b6c5-b8fa621dea36</tstamps>
     </comp>
@@ -168,8 +158,6 @@
       <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
-      <property name="ki_description" value="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
-      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a74bbba2-00cd-4aaa-b52b-3b3176f77c52</tstamps>
     </comp>
@@ -180,8 +168,6 @@
       <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
-      <property name="ki_description" value="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
-      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dab10972-1430-44f7-b687-708848e7be1c</tstamps>
     </comp>
@@ -192,8 +178,6 @@
       <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
-      <property name="ki_description" value="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
-      <property name="ki_keywords" value="BNC SMA SMB SMC LEMO coaxial connector CINCH RCA"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fa247648-2d2f-4ce6-b339-957e0e8c3c1d</tstamps>
     </comp>
@@ -203,8 +187,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x04_PARALLEL" description="2x04 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
-      <property name="ki_description" value="2x04 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x04, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>433893a9-214d-4526-9518-f341d7a8494f</tstamps>
     </comp>
@@ -214,8 +196,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x04_PARALLEL" description="2x04 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
-      <property name="ki_description" value="2x04 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x04, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c5874da5-7d88-40ee-9f03-7b69b82e4195</tstamps>
     </comp>
@@ -261,8 +241,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>98d31aff-ebe6-449b-a604-6b22c33593cc</tstamps>
     </comp>
@@ -272,8 +250,6 @@
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="ACOMP01.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0f49491c-beeb-45b9-8416-d2ba6577e6f2</tstamps>
     </comp>
