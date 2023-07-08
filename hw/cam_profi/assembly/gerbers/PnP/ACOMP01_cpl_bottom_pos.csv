@@ -5,5 +5,6 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C4","100nF","C_0805_2012Metric",7.8740,20.5740,180.0000,bottom
 "D1","BZV55C-5,6V","D_SMA",6.6040,15.2400,-90.0000,bottom
 "IC1","TLV3604DCKR","SC-70-6",9.1440,7.1374,90.0000,bottom
+"IC2","LMH7220MK_NOPB","SOT-23-6",7.7470,23.8760,0.0000,bottom
 "R1","DNF","R_0805_2012Metric",16.5354,10.1600,90.0000,bottom
 "R2","DNF","R_0805_2012Metric",16.5354,20.3200,90.0000,bottom

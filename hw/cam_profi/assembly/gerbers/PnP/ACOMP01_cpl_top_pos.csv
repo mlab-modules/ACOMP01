@@ -1,0 +1,12 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J1","2,4 - 5,5V","Straight_2x03",11.4300,15.2400,0.0000,top
+"J2","Conn_Coaxial","SMA6251A13G50",10.1600,0.0000,0.0000,top
+"J3","Conn_Coaxial","SMA6251A13G50",0.0000,10.1600,0.0000,top
+"J4","Conn_Coaxial","SMA6251A13G50",0.0000,20.3200,0.0000,top
+"J5","Conn_Coaxial","SMA6251A13G50",10.1600,30.4800,0.0000,top
+"J6","HEADER_2x04_PARALLEL","Straight_2x04",20.3200,10.1600,180.0000,top
+"J7","HEADER_2x04_PARALLEL","Straight_2x04",20.3200,20.3200,180.0000,top
+"M1","HOLE M3","MountingHole_3mm",20.3200,30.4800,0.0000,top
+"M2","HOLE M3","MountingHole_3mm",0.0000,30.4800,0.0000,top
+"M3","HOLE","MountingHole_3mm",0.0000,0.0000,0.0000,top
+"M4","HOLE","MountingHole_3mm",20.3200,0.0000,0.0000,top
