@@ -5,7 +5,7 @@ github_branches:
 github_repo: ACOMP01
 github_url: https://github.com/mlab-modules/ACOMP01
 homepage: true
-image: doc/gen/img/ACOMP01-bottom.png
+image_title: /doc/gen/img/ACOMP01-top.png
 images:
 - doc/gen/img/ACOMP01-bottom.png
 - doc/gen/img/ACOMP01-top.png
