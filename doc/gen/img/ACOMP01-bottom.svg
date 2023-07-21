@@ -1370,67 +1370,20 @@
 </g> 
 </g></g><g transform="scale(-1,1)" id="componentContainer"><!--Capacitor_SMD:C_0805_2012Metric:C1--><g transform="translate(127.254 97.536) scale(0.9999995196926034, 1.0) rotate(90.0) translate(-1.041 -0.66000003)"><g id="pref_12_Capacitor_SMD__C_0805_2012Metric_10uF"><path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m 0.025,1.295 v -1.27 h 0.381 v 1.27 z m 2.032,0 V 0.025 H 1.676 v 1.27 z" id="pref_13leads" style="opacity:1;fill:#d6dcdb;stroke:#99abb0;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" sodipodi:nodetypes="cccccccccc"/>
   <path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m 0.406,1.295 v -1.27 h 1.27 v 1.27 z" id="pref_13main_body" style="opacity:1;fill:#e1dc9c;stroke:#6d6d6d;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" sodipodi:nodetypes="ccccc"/>
-  </g></g><!--Capacitor_SMD:C_0805_2012Metric:C4--><g transform="translate(119.634 91.186) scale(0.9999995196926034, 1.0) rotate(-180.0) translate(-1.041 -0.66000003)"><g id="pref_12_Capacitor_SMD__C_0805_2012Metric_100nF"><path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m 0.025,1.295 v -1.27 h 0.381 v 1.27 z m 2.032,0 V 0.025 H 1.676 v 1.27 z" id="pref_14leads" style="opacity:1;fill:#d6dcdb;stroke:#99abb0;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" sodipodi:nodetypes="cccccccccc"/>
-  <path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m 0.406,1.295 v -1.27 h 1.27 v 1.27 z" id="pref_14main_body" style="opacity:1;fill:#e1dc9c;stroke:#6d6d6d;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" sodipodi:nodetypes="ccccc"/>
-  </g></g><!--Capacitor_SMD:C_0805_2012Metric:C3--><g transform="translate(121.666 101.6) scale(0.9999995196926034, 1.0) rotate(-0.0) translate(-1.041 -0.66000003)"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pref_12_Capacitor_SMD__C_0805_2012Metric_100nF"/></g><!--Resistor_SMD:R_0805_2012Metric:R2--><g transform="translate(128.2954 91.44) scale(0.9999995196926034, 1.0) rotate(-90.0) translate(-1.041 -0.66000003)"><g id="pref_12_Resistor_SMD__R_0805_2012Metric_DNF"><path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m 0.025,1.295 v -1.27 h 0.381 v 1.27 z m 2.032,0 V 0.025 H 1.676 v 1.27 z" id="pref_15leads" style="opacity:1;fill:#d6dcdb;stroke:#99abb0;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" sodipodi:nodetypes="cccccccccc"/>
-  <path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m 0.406,1.295 v -1.27 h 1.27 v 1.27 z" id="pref_15main_body" style="opacity:1;fill:#191919;stroke:#6d6d6d;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" sodipodi:nodetypes="ccccc"/>
-  </g></g><!--Capacitor_SMD:C_0805_2012Metric:C2--><g transform="translate(123.19 91.186) scale(0.9999995196926034, 1.0) rotate(-0.0) translate(-1.041 -0.66000003)"><g id="pref_12_Capacitor_SMD__C_0805_2012Metric_1uF"><path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m 0.025,1.295 v -1.27 h 0.381 v 1.27 z m 2.032,0 V 0.025 H 1.676 v 1.27 z" id="pref_16leads" style="opacity:1;fill:#d6dcdb;stroke:#99abb0;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" sodipodi:nodetypes="cccccccccc"/>
-  <path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m 0.406,1.295 v -1.27 h 1.27 v 1.27 z" id="pref_16main_body" style="opacity:1;fill:#e1dc9c;stroke:#6d6d6d;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" sodipodi:nodetypes="ccccc"/>
-  </g></g><!--Resistor_SMD:R_0805_2012Metric:R1--><g transform="translate(128.2954 101.6) scale(0.9999995196926034, 1.0) rotate(-90.0) translate(-1.041 -0.66000003)"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pref_12_Resistor_SMD__R_0805_2012Metric_DNF"/></g><!--Mlab_Mechanical:MountingHole_3mm.back:M2--><g transform="translate(111.76 81.28) scale(1.0, 1.0) rotate(-0.0) translate(-0.75 -0.75)"><g id="pref_12_Mlab_Mechanical__MountingHole_3mmback_HOLEM3"><defs xmlns:xlink="http://www.w3.org/1999/xlink" id="pref_17defs13">
-    <linearGradient id="pref_17linearGradient3674">
-      <stop style="stop-color:#2b2b2b;stop-opacity:1" offset="0" id="pref_17stop3666"/>
-      <stop style="stop-color:#5e5e5e;stop-opacity:0.78431374" offset="0.48605427" id="pref_17stop4288"/>
-      <stop style="stop-color:#838383;stop-opacity:0" offset="0.53796667" id="pref_17stop3668"/>
-      <stop style="stop-color:#dcdcdc;stop-opacity:0" offset="0.76845002" id="pref_17stop3670"/>
-      <stop style="stop-color:#e4e4e4;stop-opacity:0.88235301" offset="1" id="pref_17stop3672"/>
-    </linearGradient>
-    <linearGradient id="pref_17linearGradient2885">
-      <stop style="stop-color:#8f8f8f;stop-opacity:1" offset="0" id="pref_17stop2881"/>
-      <stop style="stop-color:#e5e5e5;stop-opacity:1" offset="1" id="pref_17stop2883"/>
-    </linearGradient>
-    <linearGradient id="pref_17linearGradient1894">
-      <stop style="stop-color:#b2b2b2;stop-opacity:1" offset="0" id="pref_17stop1890"/>
-      <stop style="stop-color:#838383;stop-opacity:1" offset="0.3359659" id="pref_17stop2785"/>
-      <stop style="stop-color:#dcdcdc;stop-opacity:1" offset="0.76141548" id="pref_17stop2655"/>
-      <stop style="stop-color:#bebebe;stop-opacity:1" offset="1" id="pref_17stop1892"/>
-    </linearGradient>
-    <linearGradient id="pref_17linearGradient3692-7">
-      <stop style="stop-color:#d3d3d3;stop-opacity:1;" offset="0" id="pref_17stop3688"/>
-      <stop style="stop-color:#b2b2b2;stop-opacity:1" offset="0.81006318" id="pref_17stop5318"/>
-      <stop style="stop-color:#c8c8c8;stop-opacity:1" offset="0.87439835" id="pref_17stop4242"/>
-      <stop style="stop-color:#b8b8b8;stop-opacity:1;" offset="0.94349736" id="pref_17stop4310"/>
-      <stop style="stop-color:#aeaeae;stop-opacity:1" offset="1" id="pref_17stop3690"/>
-    </linearGradient>
-    <radialGradient xlink:href="#pref_17linearGradient3692-7" id="pref_17radialGradient1176" cx="0.75" cy="0.75" fx="0.75" fy="0.75" r="1.5" gradientUnits="userSpaceOnUse"/>
-    <linearGradient xlink:href="#pref_17linearGradient1894" id="pref_17linearGradient1902" x1="-0.24704969" y1="-10.608996" x2="8.4657993" y2="-5.57863" gradientUnits="userSpaceOnUse"/>
-    <linearGradient xlink:href="#pref_17linearGradient2885" id="pref_17linearGradient2887" x1="-0.24704971" y1="-8.0938129" x2="8.4657997" y2="-8.0938129" gradientUnits="userSpaceOnUse"/>
-    <radialGradient xlink:href="#pref_17linearGradient3674" id="pref_17radialGradient3506" cx="4.109375" cy="-8.0938129" fx="4.109375" fy="-8.0938129" r="4.3564248" gradientTransform="matrix(1.1330715,0.01077876,-0.01098402,1.1546483,-0.63574335,1.2074004)" gradientUnits="userSpaceOnUse"/>
-    <linearGradient xlink:href="#pref_17linearGradient1894" id="pref_17linearGradient1902-1" x1="-0.24704969" y1="-10.608996" x2="8.4657993" y2="-5.57863" gradientUnits="userSpaceOnUse"/>
-    <linearGradient xlink:href="#pref_17linearGradient2885" id="pref_17linearGradient2887-3" x1="-0.2470497" y1="-8.0938129" x2="8.4657993" y2="-8.0938129" gradientUnits="userSpaceOnUse"/>
-    <radialGradient xlink:href="#pref_17linearGradient3674" id="pref_17radialGradient3506-6" cx="4.109375" cy="-8.0938129" fx="4.109375" fy="-8.0938129" r="4.3564248" gradientTransform="matrix(1.1330715,0.01077876,-0.01098402,1.1546483,-0.63574335,1.2074004)" gradientUnits="userSpaceOnUse"/>
-    <linearGradient xlink:href="#pref_17linearGradient3692" id="pref_17linearGradient6924" gradientUnits="userSpaceOnUse" x1="1.4987922" y1="4.3924975" x2="-1.0811033" y2="-3.0084407"/>
-    <linearGradient id="pref_17linearGradient3692">
-      <stop style="stop-color:#e4e4e4;stop-opacity:1" offset="0" id="pref_17stop6926"/>
-      <stop style="stop-color:#e5e5e5;stop-opacity:1" offset="0.1656336" id="pref_17stop6928"/>
-      <stop style="stop-color:#f5f5f5;stop-opacity:1" offset="0.29162589" id="pref_17stop6930"/>
-      <stop style="stop-color:#c6c6c6;stop-opacity:1;" offset="0.38067153" id="pref_17stop6932"/>
-      <stop style="stop-color:#dddddd;stop-opacity:1" offset="0.57577699" id="pref_17stop6934"/>
-      <stop style="stop-color:#f2f2f2;stop-opacity:1" offset="0.66836077" id="pref_17stop6936"/>
-      <stop style="stop-color:#ebebeb;stop-opacity:1" offset="0.79280978" id="pref_17stop6938"/>
-      <stop style="stop-color:#efefef;stop-opacity:1" offset="1" id="pref_17stop6940"/>
-    </linearGradient>
-  </defs>
-  <circle style="fill:url(#pref_17linearGradient6924);fill-opacity:1;stroke:#cecece;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="pref_17path6642" cx="0.75" cy="0.75" r="3.5"/>
-  <g xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" id="pref_17g5432-9" transform="rotate(16.945707,0.75000009,0.75000001)">
-    <path sodipodi:type="star" style="opacity:1;fill:url(#pref_17linearGradient1902-1);fill-opacity:1;stroke:url(#pref_17linearGradient2887-3);stroke-width:0.0984229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" id="pref_17path1634-2" sodipodi:sides="6" sodipodi:cx="4.109375" sodipodi:cy="-8.0938129" sodipodi:r1="5.0303659" sodipodi:r2="4.3564248" sodipodi:arg1="0.52359878" sodipodi:arg2="1.0471976" transform="matrix(0.47378978,0.39955401,-0.39955401,0.47378978,-4.4308952,2.9428486)" d="m 8.4657997,-5.57863 -4.3564247,2.515183 -4.35642471,-2.515183 2e-8,-5.030366 4.35642469,-2.515183 4.3564247,2.515183 z"/>
-    <path sodipodi:type="star" style="opacity:1;fill:url(#pref_17radialGradient3506-6);fill-opacity:1;stroke:none;stroke-width:0.0984229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" id="pref_17path1634-9-0" sodipodi:sides="6" sodipodi:cx="4.109375" sodipodi:cy="-8.0938129" sodipodi:r1="5.0303659" sodipodi:r2="4.3564248" sodipodi:arg1="0.52359878" sodipodi:arg2="1.0471976" transform="matrix(0.47378978,0.39955401,-0.39955401,0.47378978,-4.4308952,2.9428486)" d="m 8.4657997,-5.57863 -4.3564247,2.515183 -4.35642471,-2.515183 2e-8,-5.030366 4.35642469,-2.515183 4.3564247,2.515183 z"/>
+  </g></g><!--Diode_SMD:D_SMA:D1--><g transform="translate(118.364 96.52) scale(0.9999999423076845, 1.0000000388937693) rotate(90.0) translate(-2.6004717 -1.2851571)"><g id="pref_12_Diode_SMD__D_SMA_BZV55C56V"><g id="pref_14g7241" transform="translate(1.7086039,0.42683863)">
+    <rect style="fill:#edf29c;fill-opacity:1;stroke:#e9eba8;stroke-width:0.192352;stroke-miterlimit:3.9;stroke-opacity:1" id="pref_14rect50" width="5.0076475" height="1.3076477" x="-3.3952196" y="-1.5125381" transform="scale(-1)"/>
+    <g id="pref_14g7235" transform="matrix(3.6157817,0,0,3.1050645,-0.74320001,-0.66578849)">
+      <rect style="fill:#414141;fill-opacity:1;stroke:#686d65;stroke-width:0.05;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-opacity:1" id="pref_14rect138" width="1.1780362" height="0.77803624" x="-1.0410907" y="-0.87999111" transform="scale(-1)"/>
+      <rect style="fill:#d2d2d2;fill-opacity:1;stroke:none;stroke-width:0.0144525;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-opacity:1" id="pref_14rect977" width="0.025958449" height="0.77803624" x="0.0033818816" y="0.098800354"/>
+    </g>
   </g>
-  <g xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" id="pref_17g5432">
-    <path sodipodi:type="star" style="opacity:1;fill:url(#pref_17linearGradient1902);fill-opacity:1;stroke:url(#pref_17linearGradient2887);stroke-width:0.0984229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" id="pref_17path1634" sodipodi:sides="6" sodipodi:cx="4.109375" sodipodi:cy="-8.0938129" sodipodi:r1="5.0303659" sodipodi:r2="4.3564248" sodipodi:arg1="0.52359878" sodipodi:arg2="1.0471976" d="m 8.4657997,-5.57863 -4.3564247,2.515183 -4.35642471,-2.515183 2e-8,-5.030366 4.35642469,-2.515183 4.3564247,2.515183 z" transform="matrix(0.47378978,0.39955401,-0.39955401,0.47378978,-4.4308952,2.9428486)"/>
-    <path sodipodi:type="star" style="opacity:1;fill:url(#pref_17radialGradient3506);fill-opacity:1;stroke:none;stroke-width:0.0984229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" id="pref_17path1634-9" sodipodi:sides="6" sodipodi:cx="4.109375" sodipodi:cy="-8.0938129" sodipodi:r1="5.0303659" sodipodi:r2="4.3564248" sodipodi:arg1="0.52359878" sodipodi:arg2="1.0471976" transform="matrix(0.47378978,0.39955401,-0.39955401,0.47378978,-4.4308952,2.9428486)" d="m 8.4657997,-5.57863 -4.3564247,2.515183 -4.35642471,-2.515183 2e-8,-5.030366 4.35642469,-2.515183 4.3564247,2.515183 z"/>
-  </g>
-  <circle style="opacity:1;fill:url(#pref_17radialGradient1176);fill-opacity:1;stroke-width:0.0202753;stroke:#848484;stroke-opacity:1" id="pref_17path1030" cx="0.75" cy="0.75" r="1.5"/>
-</g></g><!--Mlab_Mechanical:MountingHole_3mm.back:M4--><g transform="translate(132.08 111.76) scale(1.0, 1.0) rotate(-0.0) translate(-0.75 -0.75)"><g id="pref_12_Mlab_Mechanical__MountingHole_3mmback_HOLE"><defs xmlns:xlink="http://www.w3.org/1999/xlink" id="pref_18defs13">
+  </g></g><!--Capacitor_SMD:C_0805_2012Metric:C4--><g transform="translate(119.634 91.186) scale(0.9999995196926034, 1.0) rotate(-180.0) translate(-1.041 -0.66000003)"><g id="pref_12_Capacitor_SMD__C_0805_2012Metric_100nF"><path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m 0.025,1.295 v -1.27 h 0.381 v 1.27 z m 2.032,0 V 0.025 H 1.676 v 1.27 z" id="pref_15leads" style="opacity:1;fill:#d6dcdb;stroke:#99abb0;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" sodipodi:nodetypes="cccccccccc"/>
+  <path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m 0.406,1.295 v -1.27 h 1.27 v 1.27 z" id="pref_15main_body" style="opacity:1;fill:#e1dc9c;stroke:#6d6d6d;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" sodipodi:nodetypes="ccccc"/>
+  </g></g><!--Capacitor_SMD:C_0805_2012Metric:C3--><g transform="translate(121.666 101.6) scale(0.9999995196926034, 1.0) rotate(-0.0) translate(-1.041 -0.66000003)"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pref_12_Capacitor_SMD__C_0805_2012Metric_100nF"/></g><!--Resistor_SMD:R_0805_2012Metric:R2--><g transform="translate(128.2954 91.44) scale(0.9999995196926034, 1.0) rotate(-90.0) translate(-1.041 -0.66000003)"><g id="pref_12_Resistor_SMD__R_0805_2012Metric_DNF"><path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m 0.025,1.295 v -1.27 h 0.381 v 1.27 z m 2.032,0 V 0.025 H 1.676 v 1.27 z" id="pref_16leads" style="opacity:1;fill:#d6dcdb;stroke:#99abb0;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" sodipodi:nodetypes="cccccccccc"/>
+  <path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m 0.406,1.295 v -1.27 h 1.27 v 1.27 z" id="pref_16main_body" style="opacity:1;fill:#191919;stroke:#6d6d6d;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" sodipodi:nodetypes="ccccc"/>
+  </g></g><!--Capacitor_SMD:C_0805_2012Metric:C2--><g transform="translate(123.19 91.186) scale(0.9999995196926034, 1.0) rotate(-0.0) translate(-1.041 -0.66000003)"><g id="pref_12_Capacitor_SMD__C_0805_2012Metric_1uF"><path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m 0.025,1.295 v -1.27 h 0.381 v 1.27 z m 2.032,0 V 0.025 H 1.676 v 1.27 z" id="pref_17leads" style="opacity:1;fill:#d6dcdb;stroke:#99abb0;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" sodipodi:nodetypes="cccccccccc"/>
+  <path xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" d="m 0.406,1.295 v -1.27 h 1.27 v 1.27 z" id="pref_17main_body" style="opacity:1;fill:#e1dc9c;stroke:#6d6d6d;stroke-width:0.05;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" sodipodi:nodetypes="ccccc"/>
+  </g></g><!--Resistor_SMD:R_0805_2012Metric:R1--><g transform="translate(128.2954 101.6) scale(0.9999995196926034, 1.0) rotate(-90.0) translate(-1.041 -0.66000003)"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pref_12_Resistor_SMD__R_0805_2012Metric_DNF"/></g><!--Mlab_Mechanical:MountingHole_3mm.back:M2--><g transform="translate(111.76 81.28) scale(1.0, 1.0) rotate(-0.0) translate(-0.75 -0.75)"><g id="pref_12_Mlab_Mechanical__MountingHole_3mmback_HOLEM3"><defs xmlns:xlink="http://www.w3.org/1999/xlink" id="pref_18defs13">
     <linearGradient id="pref_18linearGradient3674">
       <stop style="stop-color:#2b2b2b;stop-opacity:1" offset="0" id="pref_18stop3666"/>
       <stop style="stop-color:#5e5e5e;stop-opacity:0.78431374" offset="0.48605427" id="pref_18stop4288"/>
@@ -1484,26 +1437,80 @@
     <path sodipodi:type="star" style="opacity:1;fill:url(#pref_18radialGradient3506);fill-opacity:1;stroke:none;stroke-width:0.0984229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" id="pref_18path1634-9" sodipodi:sides="6" sodipodi:cx="4.109375" sodipodi:cy="-8.0938129" sodipodi:r1="5.0303659" sodipodi:r2="4.3564248" sodipodi:arg1="0.52359878" sodipodi:arg2="1.0471976" transform="matrix(0.47378978,0.39955401,-0.39955401,0.47378978,-4.4308952,2.9428486)" d="m 8.4657997,-5.57863 -4.3564247,2.515183 -4.35642471,-2.515183 2e-8,-5.030366 4.35642469,-2.515183 4.3564247,2.515183 z"/>
   </g>
   <circle style="opacity:1;fill:url(#pref_18radialGradient1176);fill-opacity:1;stroke-width:0.0202753;stroke:#848484;stroke-opacity:1" id="pref_18path1030" cx="0.75" cy="0.75" r="1.5"/>
-</g></g><!--Mlab_CON:SMA6251A13G50.back:J2--><g transform="translate(121.92 111.76) scale(1.0, 1.0) rotate(-0.0) translate(-2.9988322 -2.9975302)"><g id="pref_12_Mlab_CON__SMA6251A13G50back_Conn_Coaxial"><defs xmlns:xlink="http://www.w3.org/1999/xlink" id="pref_19defs13">
-    <linearGradient id="pref_19linearGradient4401">
-      <stop style="stop-color:#cfc799;stop-opacity:1" offset="0" id="pref_19stop4395"/>
-      <stop style="stop-color:#e0dbbf;stop-opacity:1" offset="0.50940162" id="pref_19stop4397"/>
-      <stop style="stop-color:#e7e3cd;stop-opacity:1" offset="1" id="pref_19stop4399"/>
+</g></g><!--Mlab_Mechanical:MountingHole_3mm.back:M4--><g transform="translate(132.08 111.76) scale(1.0, 1.0) rotate(-0.0) translate(-0.75 -0.75)"><g id="pref_12_Mlab_Mechanical__MountingHole_3mmback_HOLE"><defs xmlns:xlink="http://www.w3.org/1999/xlink" id="pref_19defs13">
+    <linearGradient id="pref_19linearGradient3674">
+      <stop style="stop-color:#2b2b2b;stop-opacity:1" offset="0" id="pref_19stop3666"/>
+      <stop style="stop-color:#5e5e5e;stop-opacity:0.78431374" offset="0.48605427" id="pref_19stop4288"/>
+      <stop style="stop-color:#838383;stop-opacity:0" offset="0.53796667" id="pref_19stop3668"/>
+      <stop style="stop-color:#dcdcdc;stop-opacity:0" offset="0.76845002" id="pref_19stop3670"/>
+      <stop style="stop-color:#e4e4e4;stop-opacity:0.88235301" offset="1" id="pref_19stop3672"/>
     </linearGradient>
-    <linearGradient xlink:href="#pref_19linearGradient4401" id="pref_19linearGradient4405" gradientUnits="userSpaceOnUse" x1="5.7084156" y1="0.44125649" x2="7.7898706" y2="0.44125649" gradientTransform="translate(-1.1889768,-0.03202288)"/>
-    <linearGradient xlink:href="#pref_19linearGradient4401" id="pref_19linearGradient4489" gradientUnits="userSpaceOnUse" gradientTransform="translate(-6.2786014,-0.00711299)" x1="5.7084156" y1="0.44125649" x2="7.7898706" y2="0.44125649"/>
-    <linearGradient xlink:href="#pref_19linearGradient4401" id="pref_19linearGradient4493" gradientUnits="userSpaceOnUse" gradientTransform="translate(-6.2845061,5.2194593)" x1="5.7084156" y1="0.44125649" x2="7.7898706" y2="0.44125649"/>
-    <linearGradient xlink:href="#pref_19linearGradient4401" id="pref_19linearGradient4497" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.2696891,5.2623661)" x1="5.7084156" y1="0.44125649" x2="7.7898706" y2="0.44125649"/>
-    <linearGradient xlink:href="#pref_19linearGradient4401" id="pref_19linearGradient6364" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.80760815,0,0,0.80760815,-2.4506631,2.6436375)" x1="5.7084156" y1="0.44125649" x2="7.7898706" y2="0.44125649"/>
+    <linearGradient id="pref_19linearGradient2885">
+      <stop style="stop-color:#8f8f8f;stop-opacity:1" offset="0" id="pref_19stop2881"/>
+      <stop style="stop-color:#e5e5e5;stop-opacity:1" offset="1" id="pref_19stop2883"/>
+    </linearGradient>
+    <linearGradient id="pref_19linearGradient1894">
+      <stop style="stop-color:#b2b2b2;stop-opacity:1" offset="0" id="pref_19stop1890"/>
+      <stop style="stop-color:#838383;stop-opacity:1" offset="0.3359659" id="pref_19stop2785"/>
+      <stop style="stop-color:#dcdcdc;stop-opacity:1" offset="0.76141548" id="pref_19stop2655"/>
+      <stop style="stop-color:#bebebe;stop-opacity:1" offset="1" id="pref_19stop1892"/>
+    </linearGradient>
+    <linearGradient id="pref_19linearGradient3692-7">
+      <stop style="stop-color:#d3d3d3;stop-opacity:1;" offset="0" id="pref_19stop3688"/>
+      <stop style="stop-color:#b2b2b2;stop-opacity:1" offset="0.81006318" id="pref_19stop5318"/>
+      <stop style="stop-color:#c8c8c8;stop-opacity:1" offset="0.87439835" id="pref_19stop4242"/>
+      <stop style="stop-color:#b8b8b8;stop-opacity:1;" offset="0.94349736" id="pref_19stop4310"/>
+      <stop style="stop-color:#aeaeae;stop-opacity:1" offset="1" id="pref_19stop3690"/>
+    </linearGradient>
+    <radialGradient xlink:href="#pref_19linearGradient3692-7" id="pref_19radialGradient1176" cx="0.75" cy="0.75" fx="0.75" fy="0.75" r="1.5" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#pref_19linearGradient1894" id="pref_19linearGradient1902" x1="-0.24704969" y1="-10.608996" x2="8.4657993" y2="-5.57863" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#pref_19linearGradient2885" id="pref_19linearGradient2887" x1="-0.24704971" y1="-8.0938129" x2="8.4657997" y2="-8.0938129" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#pref_19linearGradient3674" id="pref_19radialGradient3506" cx="4.109375" cy="-8.0938129" fx="4.109375" fy="-8.0938129" r="4.3564248" gradientTransform="matrix(1.1330715,0.01077876,-0.01098402,1.1546483,-0.63574335,1.2074004)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#pref_19linearGradient1894" id="pref_19linearGradient1902-1" x1="-0.24704969" y1="-10.608996" x2="8.4657993" y2="-5.57863" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#pref_19linearGradient2885" id="pref_19linearGradient2887-3" x1="-0.2470497" y1="-8.0938129" x2="8.4657993" y2="-8.0938129" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#pref_19linearGradient3674" id="pref_19radialGradient3506-6" cx="4.109375" cy="-8.0938129" fx="4.109375" fy="-8.0938129" r="4.3564248" gradientTransform="matrix(1.1330715,0.01077876,-0.01098402,1.1546483,-0.63574335,1.2074004)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#pref_19linearGradient3692" id="pref_19linearGradient6924" gradientUnits="userSpaceOnUse" x1="1.4987922" y1="4.3924975" x2="-1.0811033" y2="-3.0084407"/>
+    <linearGradient id="pref_19linearGradient3692">
+      <stop style="stop-color:#e4e4e4;stop-opacity:1" offset="0" id="pref_19stop6926"/>
+      <stop style="stop-color:#e5e5e5;stop-opacity:1" offset="0.1656336" id="pref_19stop6928"/>
+      <stop style="stop-color:#f5f5f5;stop-opacity:1" offset="0.29162589" id="pref_19stop6930"/>
+      <stop style="stop-color:#c6c6c6;stop-opacity:1;" offset="0.38067153" id="pref_19stop6932"/>
+      <stop style="stop-color:#dddddd;stop-opacity:1" offset="0.57577699" id="pref_19stop6934"/>
+      <stop style="stop-color:#f2f2f2;stop-opacity:1" offset="0.66836077" id="pref_19stop6936"/>
+      <stop style="stop-color:#ebebeb;stop-opacity:1" offset="0.79280978" id="pref_19stop6938"/>
+      <stop style="stop-color:#efefef;stop-opacity:1" offset="1" id="pref_19stop6940"/>
+    </linearGradient>
   </defs>
-  <circle style="fill:url(#pref_19linearGradient4489);fill-opacity:1;stroke-width:0.690505" id="pref_19circle4487" cx="0.47054178" cy="0.43414351" r="1.0407275"/>
-  <circle style="fill:url(#pref_19linearGradient4493);fill-opacity:1;stroke-width:0.690505" id="pref_19circle4491" cx="0.46463701" cy="5.6607156" r="1.0407275"/>
-  <circle style="fill:url(#pref_19linearGradient4497);fill-opacity:1;stroke-width:0.690505" id="pref_19circle4495" cx="5.479454" cy="5.7036223" r="1.0407275"/>
-  <circle style="fill:url(#pref_19linearGradient4405);fill-opacity:1;stroke-width:0.690505" id="pref_19circle4369" cx="5.5601664" cy="0.40923363" r="1.0407275"/>
-  <circle style="fill:#f1cb00;fill-opacity:1;stroke-width:0.497612" id="pref_19circle4696" cx="0.46000001" cy="0.46000001" r="0.75"/>
-  <circle style="fill:#f1cb00;fill-opacity:1;stroke-width:0.497612" id="pref_19circle4778" cx="5.54" cy="0.46000001" r="0.75"/>
-  <circle style="fill:#f1cb00;fill-opacity:1;stroke-width:0.497612" id="pref_19circle4780" cx="0.46000001" cy="5.54" r="0.75"/>
-  <circle style="fill:#f1cb00;fill-opacity:1;stroke-width:0.497612" id="pref_19circle4782" cx="5.54" cy="5.54" r="0.75"/>
-  <circle style="fill:url(#pref_19linearGradient6364);fill-opacity:1;stroke-width:0.557657" id="pref_19circle6360" cx="3" cy="3" r="0.8405"/>
-  <circle style="fill:#f1cb00;fill-opacity:1;stroke-width:0.401876" id="pref_19circle6362" cx="3" cy="3" r="0.6057061"/>
+  <circle style="fill:url(#pref_19linearGradient6924);fill-opacity:1;stroke:#cecece;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="pref_19path6642" cx="0.75" cy="0.75" r="3.5"/>
+  <g xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" id="pref_19g5432-9" transform="rotate(16.945707,0.75000009,0.75000001)">
+    <path sodipodi:type="star" style="opacity:1;fill:url(#pref_19linearGradient1902-1);fill-opacity:1;stroke:url(#pref_19linearGradient2887-3);stroke-width:0.0984229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" id="pref_19path1634-2" sodipodi:sides="6" sodipodi:cx="4.109375" sodipodi:cy="-8.0938129" sodipodi:r1="5.0303659" sodipodi:r2="4.3564248" sodipodi:arg1="0.52359878" sodipodi:arg2="1.0471976" transform="matrix(0.47378978,0.39955401,-0.39955401,0.47378978,-4.4308952,2.9428486)" d="m 8.4657997,-5.57863 -4.3564247,2.515183 -4.35642471,-2.515183 2e-8,-5.030366 4.35642469,-2.515183 4.3564247,2.515183 z"/>
+    <path sodipodi:type="star" style="opacity:1;fill:url(#pref_19radialGradient3506-6);fill-opacity:1;stroke:none;stroke-width:0.0984229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" id="pref_19path1634-9-0" sodipodi:sides="6" sodipodi:cx="4.109375" sodipodi:cy="-8.0938129" sodipodi:r1="5.0303659" sodipodi:r2="4.3564248" sodipodi:arg1="0.52359878" sodipodi:arg2="1.0471976" transform="matrix(0.47378978,0.39955401,-0.39955401,0.47378978,-4.4308952,2.9428486)" d="m 8.4657997,-5.57863 -4.3564247,2.515183 -4.35642471,-2.515183 2e-8,-5.030366 4.35642469,-2.515183 4.3564247,2.515183 z"/>
+  </g>
+  <g xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" id="pref_19g5432">
+    <path sodipodi:type="star" style="opacity:1;fill:url(#pref_19linearGradient1902);fill-opacity:1;stroke:url(#pref_19linearGradient2887);stroke-width:0.0984229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" id="pref_19path1634" sodipodi:sides="6" sodipodi:cx="4.109375" sodipodi:cy="-8.0938129" sodipodi:r1="5.0303659" sodipodi:r2="4.3564248" sodipodi:arg1="0.52359878" sodipodi:arg2="1.0471976" d="m 8.4657997,-5.57863 -4.3564247,2.515183 -4.35642471,-2.515183 2e-8,-5.030366 4.35642469,-2.515183 4.3564247,2.515183 z" transform="matrix(0.47378978,0.39955401,-0.39955401,0.47378978,-4.4308952,2.9428486)"/>
+    <path sodipodi:type="star" style="opacity:1;fill:url(#pref_19radialGradient3506);fill-opacity:1;stroke:none;stroke-width:0.0984229;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" id="pref_19path1634-9" sodipodi:sides="6" sodipodi:cx="4.109375" sodipodi:cy="-8.0938129" sodipodi:r1="5.0303659" sodipodi:r2="4.3564248" sodipodi:arg1="0.52359878" sodipodi:arg2="1.0471976" transform="matrix(0.47378978,0.39955401,-0.39955401,0.47378978,-4.4308952,2.9428486)" d="m 8.4657997,-5.57863 -4.3564247,2.515183 -4.35642471,-2.515183 2e-8,-5.030366 4.35642469,-2.515183 4.3564247,2.515183 z"/>
+  </g>
+  <circle style="opacity:1;fill:url(#pref_19radialGradient1176);fill-opacity:1;stroke-width:0.0202753;stroke:#848484;stroke-opacity:1" id="pref_19path1030" cx="0.75" cy="0.75" r="1.5"/>
+</g></g><!--Mlab_CON:SMA6251A13G50.back:J2--><g transform="translate(121.92 111.76) scale(1.0, 1.0) rotate(-0.0) translate(-2.9988322 -2.9975302)"><g id="pref_12_Mlab_CON__SMA6251A13G50back_Conn_Coaxial"><defs xmlns:xlink="http://www.w3.org/1999/xlink" id="pref_20defs13">
+    <linearGradient id="pref_20linearGradient4401">
+      <stop style="stop-color:#cfc799;stop-opacity:1" offset="0" id="pref_20stop4395"/>
+      <stop style="stop-color:#e0dbbf;stop-opacity:1" offset="0.50940162" id="pref_20stop4397"/>
+      <stop style="stop-color:#e7e3cd;stop-opacity:1" offset="1" id="pref_20stop4399"/>
+    </linearGradient>
+    <linearGradient xlink:href="#pref_20linearGradient4401" id="pref_20linearGradient4405" gradientUnits="userSpaceOnUse" x1="5.7084156" y1="0.44125649" x2="7.7898706" y2="0.44125649" gradientTransform="translate(-1.1889768,-0.03202288)"/>
+    <linearGradient xlink:href="#pref_20linearGradient4401" id="pref_20linearGradient4489" gradientUnits="userSpaceOnUse" gradientTransform="translate(-6.2786014,-0.00711299)" x1="5.7084156" y1="0.44125649" x2="7.7898706" y2="0.44125649"/>
+    <linearGradient xlink:href="#pref_20linearGradient4401" id="pref_20linearGradient4493" gradientUnits="userSpaceOnUse" gradientTransform="translate(-6.2845061,5.2194593)" x1="5.7084156" y1="0.44125649" x2="7.7898706" y2="0.44125649"/>
+    <linearGradient xlink:href="#pref_20linearGradient4401" id="pref_20linearGradient4497" gradientUnits="userSpaceOnUse" gradientTransform="translate(-1.2696891,5.2623661)" x1="5.7084156" y1="0.44125649" x2="7.7898706" y2="0.44125649"/>
+    <linearGradient xlink:href="#pref_20linearGradient4401" id="pref_20linearGradient6364" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.80760815,0,0,0.80760815,-2.4506631,2.6436375)" x1="5.7084156" y1="0.44125649" x2="7.7898706" y2="0.44125649"/>
+  </defs>
+  <circle style="fill:url(#pref_20linearGradient4489);fill-opacity:1;stroke-width:0.690505" id="pref_20circle4487" cx="0.47054178" cy="0.43414351" r="1.0407275"/>
+  <circle style="fill:url(#pref_20linearGradient4493);fill-opacity:1;stroke-width:0.690505" id="pref_20circle4491" cx="0.46463701" cy="5.6607156" r="1.0407275"/>
+  <circle style="fill:url(#pref_20linearGradient4497);fill-opacity:1;stroke-width:0.690505" id="pref_20circle4495" cx="5.479454" cy="5.7036223" r="1.0407275"/>
+  <circle style="fill:url(#pref_20linearGradient4405);fill-opacity:1;stroke-width:0.690505" id="pref_20circle4369" cx="5.5601664" cy="0.40923363" r="1.0407275"/>
+  <circle style="fill:#f1cb00;fill-opacity:1;stroke-width:0.497612" id="pref_20circle4696" cx="0.46000001" cy="0.46000001" r="0.75"/>
+  <circle style="fill:#f1cb00;fill-opacity:1;stroke-width:0.497612" id="pref_20circle4778" cx="5.54" cy="0.46000001" r="0.75"/>
+  <circle style="fill:#f1cb00;fill-opacity:1;stroke-width:0.497612" id="pref_20circle4780" cx="0.46000001" cy="5.54" r="0.75"/>
+  <circle style="fill:#f1cb00;fill-opacity:1;stroke-width:0.497612" id="pref_20circle4782" cx="5.54" cy="5.54" r="0.75"/>
+  <circle style="fill:url(#pref_20linearGradient6364);fill-opacity:1;stroke-width:0.557657" id="pref_20circle6360" cx="3" cy="3" r="0.8405"/>
+  <circle style="fill:#f1cb00;fill-opacity:1;stroke-width:0.401876" id="pref_20circle6362" cx="3" cy="3" r="0.6057061"/>
 </g></g><!--Mlab_CON:SMA6251A13G50.back:J4--><g transform="translate(111.76 91.44) scale(1.0, 1.0) rotate(-0.0) translate(-2.9988322 -2.9975302)"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pref_12_Mlab_CON__SMA6251A13G50back_Conn_Coaxial"/></g><!--Mlab_Mechanical:MountingHole_3mm.back:M3--><g transform="translate(111.76 111.76) scale(1.0, 1.0) rotate(-0.0) translate(-0.75 -0.75)"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pref_12_Mlab_Mechanical__MountingHole_3mmback_HOLE"/></g><!--Mlab_Mechanical:MountingHole_3mm.back:M1--><g transform="translate(132.08 81.28) scale(1.0, 1.0) rotate(-0.0) translate(-0.75 -0.75)"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pref_12_Mlab_Mechanical__MountingHole_3mmback_HOLEM3"/></g><!--Mlab_CON:SMA6251A13G50.back:J5--><g transform="translate(121.92 81.28) scale(1.0, 1.0) rotate(-0.0) translate(-2.9988322 -2.9975302)"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pref_12_Mlab_CON__SMA6251A13G50back_Conn_Coaxial"/></g><!--Mlab_CON:SMA6251A13G50.back:J3--><g transform="translate(111.76 101.6) scale(1.0, 1.0) rotate(-0.0) translate(-2.9988322 -2.9975302)"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pref_12_Mlab_CON__SMA6251A13G50back_Conn_Coaxial"/></g></g></svg>
