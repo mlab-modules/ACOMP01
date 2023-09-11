@@ -10,10 +10,10 @@ images:
 - doc/gen/img/ACOMP01-bottom.png
 - doc/gen/img/ACOMP01-top.png
 - doc/gen/ACOMP01-schematic.svg
-- doc/gen/img/ACOMP01-bottom.svg
 - doc/gen/img/ACOMP01-top.svg
-- hw/cam_profi/assembly/ACOMP01-assembly_page_02.svg
+- doc/gen/img/ACOMP01-bottom.svg
 - hw/cam_profi/assembly/ACOMP01-assembly_page_01.svg
+- hw/cam_profi/assembly/ACOMP01-assembly_page_02.svg
 issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/ACOMP01-ibom.html
@@ -30,4 +30,4 @@ tags:
 - mlab-kicad
 - pcb
 title: ACOMP01
-updated: '2023-07-21T03:39:22.388030+00:00'
+updated: '2023-09-11T01:09:07.988623+00:00'
