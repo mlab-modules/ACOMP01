@@ -2,6 +2,7 @@ description: Fast analog comparator module
 github_branch: ACOMP01A
 github_branches:
 - ACOMP01A
+github_description: Fast analog comparator module
 github_repo: ACOMP01
 github_url: https://github.com/mlab-modules/ACOMP01
 homepage: true
@@ -31,4 +32,4 @@ tags:
 - mlab-kicad
 - pcb
 title: ACOMP01
-updated: '2023-09-16T21:29:11.039428+00:00'
+updated: '2023-09-17T11:32:39.359592+00:00'
