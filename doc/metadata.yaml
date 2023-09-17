@@ -12,11 +12,11 @@ images:
 - doc/gen/ACOMP01-schematic.svg
 - doc/gen/img/ACOMP01-top.svg
 - doc/gen/img/ACOMP01-bottom.svg
-- hw/cam_profi/assembly/ACOMP01-assembly_page_02.svg
-- hw/cam_profi/assembly/ACOMP01-assembly_page_01.svg
+- hw/cam_profi/docs/ACOMP01A-assembly_page_02.svg
+- hw/cam_profi/docs/ACOMP01A-assembly_page_01.svg
 issues: 0
 mark: 50
-mod_ibom: hw/cam_profi/ACOMP01-ibom.html
+mod_ibom: hw/cam_profi/ibom/ACOMP01-ibom.html
 mod_scheme: doc/gen/ACOMP01-schematic.pdf
 status: 1
 tags:
