@@ -37,7 +37,7 @@ Via: 0.8/0.4 mm (31/16 mils)
 - By design rules: 0.4/0.3 mm (16/12 mils)
 - Micro via: yes [0.2/0.1 mm (8/4 mils)]
 - Buried/blind via: yes
-- Total: 15 (thru: 15 buried/blind: 0 micro: 0)
+- Total: 18 (thru: 18 buried/blind: 0 micro: 0)
 
 Outer Annular Ring: 0.15 mm (6 mils)
 
@@ -52,7 +52,7 @@ Eurocircuits class: 4B
 Components count: (SMD/THT)
 
 - Top: 0/11 (THT)
-- Bottom: 8/1 (SMD + THT)
+- Bottom: 9/0 (SMD)
 
 Defined tracks:
 
@@ -60,14 +60,14 @@ Defined tracks:
 Used tracks:
 
 - 0.2 mm (8 mils) (21) defined: no
-- 0.25 mm (10 mils) (58) defined: no
+- 0.25 mm (10 mils) (65) defined: no
 
 Defined vias:
 
 
 Used vias:
 
-- 0.8/0.4 mm (31/16 mils) (Count: 15, Aspect: 2.0 A) defined: no
+- 0.8/0.4 mm (31/16 mils) (Count: 18, Aspect: 2.0 A) defined: no
 
 Holes (excluding vias):
 
@@ -81,12 +81,24 @@ Oval holes:
 
 Drill tools (including vias and computing adjusts and rounding):
 
-- 0.5 mm (20 mils) (15)
+- 0.5 mm (20 mils) (18)
 - 1.0 mm (39 mils) (22)
 - 1.6 mm (63 mils) (4)
 - 1.8 mm (71 mils) (16)
 - 3.1 mm (122 mils) (4)
 
+Solder paste stats:
+
+Using a paste with 87.75 % alloy, that has an specific gravity for the alloy of 7.4 g/cm³
+and 1.0 g/cm³ for the flux. This paste has an specific gravity of  4.15 g/cm³.
+
+The stencil thickness is  0.12 mm.
+
+| Side   | Pads with paste | Area [mm²] | Paste [g] |
+|--------|-----------------|------------|-----------|
+| Total  |              26 |      33.40 |      0.17 |
+
+Note: this is just an approximation to the theoretical value. Margins of the solder mask and waste aren't computed.
 
 
 
