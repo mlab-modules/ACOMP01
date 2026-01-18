@@ -19,7 +19,7 @@ issues: 0
 mark: 50
 mod_ibom: hw/cam_profi/ibom/ACOMP01-ibom.html
 mod_scheme: doc/gen/ACOMP01-schematic.pdf
-status: 1
+status: 2
 tags:
 - analog-signal
 - analog-signals
