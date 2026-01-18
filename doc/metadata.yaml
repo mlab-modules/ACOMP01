@@ -8,8 +8,8 @@ github_url: https://github.com/mlab-modules/ACOMP01
 homepage: true
 image_title: /doc/gen/img/ACOMP01-top.png
 images:
-- doc/gen/img/ACOMP01-bottom.png
 - doc/gen/img/ACOMP01-top.png
+- doc/gen/img/ACOMP01-bottom.png
 - doc/gen/ACOMP01-schematic.svg
 - doc/gen/img/ACOMP01-top.svg
 - doc/gen/img/ACOMP01-bottom.svg
@@ -32,4 +32,4 @@ tags:
 - mlab-kicad
 - pcb
 title: ACOMP01
-updated: '2023-09-17T11:46:27.704830+00:00'
+updated: '2026-01-18T20:54:23.719301+00:00'
