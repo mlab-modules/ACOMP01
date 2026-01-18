@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/ACOMP01.kicad_sch</source>
-    <date>2026-01-18T20:55:57+0000</date>
+    <date>2026-01-18T22:21:31+0000</date>
     <tool>Eeschema 9.0.6+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -632,7 +632,7 @@
       <node ref="J6" pin="6" pintype="input"/>
       <node ref="R1" pin="2" pintype="passive"/>
     </net>
-    <net code="10" name="GND" class="Default">
+    <net code="10" name="GND" class="MLAB_power,Default">
       <node ref="C1" pin="2" pintype="passive"/>
       <node ref="C2" pin="2" pintype="passive"/>
       <node ref="C3" pin="2" pintype="passive"/>
